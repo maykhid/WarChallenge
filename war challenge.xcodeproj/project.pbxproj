@@ -8,12 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		EB413B962AF473A3005AB97C /* war_challengeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB413B952AF473A3005AB97C /* war_challengeApp.swift */; };
-		EB413B982AF473A3005AB97C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB413B972AF473A3005AB97C /* ContentView.swift */; };
 		EB413B9A2AF473A5005AB97C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB413B992AF473A5005AB97C /* Assets.xcassets */; };
 		EB413B9D2AF473A5005AB97C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB413B9C2AF473A5005AB97C /* Preview Assets.xcassets */; };
 		EB413BA72AF473A5005AB97C /* war_challengeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB413BA62AF473A5005AB97C /* war_challengeTests.swift */; };
 		EB413BB12AF473A5005AB97C /* war_challengeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB413BB02AF473A5005AB97C /* war_challengeUITests.swift */; };
 		EB413BB32AF473A5005AB97C /* war_challengeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB413BB22AF473A5005AB97C /* war_challengeUITestsLaunchTests.swift */; };
+		EB413BBF2AF49199005AB97C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB413B972AF473A3005AB97C /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -257,7 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EB413B982AF473A3005AB97C /* ContentView.swift in Sources */,
+				EB413BBF2AF49199005AB97C /* ContentView.swift in Sources */,
 				EB413B962AF473A3005AB97C /* war_challengeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
